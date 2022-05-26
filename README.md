@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeWalker
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning tekton
+- 🌱 I’m currently working on projects in and around British Columbia
 - 💞️ I’m looking to collaborate on enterprise architecture patterns.
 
 <!---
